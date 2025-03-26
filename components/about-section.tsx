@@ -78,7 +78,7 @@ export default function AboutSection() {
         <div className="relative h-[600px]">
           <motion.div style={{ y: y1 }} className="absolute top-0 left-0 w-2/3 h-64 overflow-hidden rounded-lg">
             <Image
-              src="/placeholder.svg?height=256&width=384"
+              src="/images/hoody.png"
               alt="Fashion design process"
               width={384}
               height={256}
@@ -88,7 +88,7 @@ export default function AboutSection() {
 
           <motion.div style={{ y: y2 }} className="absolute top-1/4 right-0 w-2/3 h-64 overflow-hidden rounded-lg">
             <Image
-              src="/placeholder.svg?height=256&width=384"
+              src="/images/image.png"
               alt="Sustainable materials"
               width={384}
               height={256}
